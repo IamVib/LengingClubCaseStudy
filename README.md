@@ -28,7 +28,7 @@ their loans.
 - Loans with LC assigned grades as A and B are lot less likely to default
 - As the category moves from A to F, the frequency of default increases
 - Loans taken for small businesses tend to default more
-- Loans taken by consumers from states NV, AK and SD have coparatively higher default ratio
+- Loans taken by consumers from states NV, AK and SD have comparatively higher default ratio
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
