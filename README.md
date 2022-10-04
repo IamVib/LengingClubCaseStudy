@@ -25,12 +25,12 @@ their loans.
 ## Conclusions
 - Loans with high interest rate tend to get defaulted more. Since interest rate compounds and overall repayment amount gets big exponentially over time, loans given at lower interest rate could be safer.
 - Long term loan(60 months) tends to get default. Applications for long term loan should be more scrutinized.
-- Lending club assigned loan grades based on consumers' attributes is very useful. The default frequency increases from grade A towards G, this loan applications going - towards G from A should be approved very carefully.
+- Lending club assigned loan grades based on consumers' attributes is very useful. The default frequency increases from grade A towards G, thus loan applications going - from A towards G should be approved very carefully.
 - In a particular grade, the default frequency increases from 1 to 5 subgrades with exceptions. But as a general thumb of rule, the higher subgrade increases the chances of default.
 - Loans titled 'Small business loan' are risky and should be approved carefully understanding that the chances of default could be high.
 - Loans taken for the purpose of small businesses are risky as we know from the title of the loans as well. Loan with this purpose should be approved understanding the amount of risk involved.
 - Consumers belonging to Missouri(MO) and Florida(FL) have defaulted more on their loans. Loan applications with consumers from these states should be more scrutinized
-- As late as the month is issued in a US fiscal year, the chances of default increases. Loan applications coming late in the fiscal year cycle should be approved carefully.
+- As late as the month is issued in a US fiscal year, the chances of default increases. Loan applications coming late in the fiscal year cycle should be approved carefully. Specially May and December
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
