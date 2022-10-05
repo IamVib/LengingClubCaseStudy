@@ -15,8 +15,9 @@ their loans.
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Given the dataset from a financial company, I performed several analysis based on various EDA techniques
-- This is based on a dataset from a loan providing company with financial information containing lot of consumer and loan attribues
+- Given the dataset from a large online loan company from where people can take loans easily
+- The dataset has financial information containing lot of consumer and loan attribues
+- It contains data about above active, fully paid and defaulted loans
 - The goal is detect vital driving factors which increases the frequency of default
 - The dataset used here is loan.csv containing around 30k rows and 100+ columns
 
